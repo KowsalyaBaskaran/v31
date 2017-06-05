@@ -1,0 +1,17 @@
+{
+    "app_id" : "com.ksrct.xtlearnksrct",
+    "appname": "Xtlearn KSRCT",
+    "versioncode" : "20171",
+    "versionname" : "1.1.2",
+    "cache_expiration_time" : 300000,
+    "default_lang" : "en",
+    "languages": {"en": "English"},
+    "wsservice" : "moodle_mobile_app",
+    "wsextservice" : "local_mobile",
+   
+    "gcmpn": "694767596569",
+    "customurlscheme": "moodlemobile",
+    "siteurl": "http://xtlearn.ksrct.ac.in:84/",
+    "skipssoconfirmation": "false",
+    "forcedefaultlanguage": "false"
+}
